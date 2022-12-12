@@ -18,6 +18,12 @@ npm run dev
 npm run build
 ```
 
+### docs
+
+```sh
+npm run docs:dev
+```
+
 ### 介绍 配置环境变量
 
 ```sh
