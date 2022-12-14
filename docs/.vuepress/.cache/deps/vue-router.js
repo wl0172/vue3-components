@@ -3,6 +3,7 @@ import {
   defineComponent,
   getCurrentInstance,
   h,
+  init_vue_runtime_esm_bundler,
   inject,
   nextTick,
   onActivated,
@@ -15,9 +16,12 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-W3H73K7W.js";
-import "./chunk-5FAFY5BW.js";
-import "./chunk-TWLJ45QX.js";
+} from "./chunk-3FTGOXFB.js";
+import "./chunk-RSLUYNG7.js";
+import "./chunk-J43GMYXM.js";
+
+// node_modules/vue-router/dist/vue-router.mjs
+init_vue_runtime_esm_bundler();
 
 // node_modules/@vue/devtools-api/lib/esm/env.js
 function getDevtoolsGlobalHook() {

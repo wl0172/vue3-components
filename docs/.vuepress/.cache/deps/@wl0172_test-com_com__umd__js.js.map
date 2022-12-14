@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["dep:@wl0172_test-com_com__umd__js"],
+  "sourcesContent": ["export default require(\"../../../../node_modules/@wl0172/test-com/com.umd.js\");"],
+  "mappings": ";;;;;;;;AAAA,IAAO,qCAAQ;",
+  "names": []
+}

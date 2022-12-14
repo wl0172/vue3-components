@@ -1,11 +1,13 @@
 import {
+  init_shared_esm_bundler,
   isArray,
   isFunction,
   isString
-} from "./chunk-5FAFY5BW.js";
-import "./chunk-TWLJ45QX.js";
+} from "./chunk-RSLUYNG7.js";
+import "./chunk-J43GMYXM.js";
 
 // node_modules/@vuepress/shared/dist/index.js
+init_shared_esm_bundler();
 var resolveHeadIdentifier = ([
   tag,
   attrs,

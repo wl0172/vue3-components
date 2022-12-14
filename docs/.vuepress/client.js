@@ -12,7 +12,8 @@ import 'element-plus/dist/index.css'
 import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
 
 // 导入远程库 - 本地库解决不了未知问题
-import Com from '@wl0172/test-com'
+// import Com from '@wl0172/test-com'
+import Coms from '@wl0172/test-com/com.umd.js'
 
 
 export default defineClientConfig ({
@@ -21,7 +22,7 @@ export default defineClientConfig ({
     app.use(ElementPlus, {
       locale: zhCn,
     })
-    app.use(Com)
+    app.use(Coms)
   },
 })
 

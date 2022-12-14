@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["dep:@wl0172_test-com_com__es"],
+  "sourcesContent": ["import d from \"../../../../node_modules/@wl0172/test-com/com.es.js\";export default d;"],
+  "mappings": ";;;;;;;;AAAoE,IAAO,iCAAQ;",
+  "names": []
+}

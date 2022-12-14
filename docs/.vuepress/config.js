@@ -14,6 +14,8 @@ import navbar from './config/navbar'
 import sidebar from './config/sidebar'
 
 
+
+
 export default defineUserConfig({
   locales: {},
   lang: 'zh-CN',
@@ -59,5 +61,6 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, './components'),
     }),
+    
   ],
 })
